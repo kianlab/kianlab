@@ -1,16 +1,33 @@
-## Hi there 👋
+# Kianlab
 
-<!--
-**kianlab/kianlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Embedded Systems & Practical Hardware Engineering
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+Kianlab focuses on practical embedded systems development, firmware architecture, and hardware design experiments.
+
+This space documents real-world engineering work including firmware implementation, industrial communication protocols, and hardware signal analysis.
+
+---
+
+## Focus Areas
+
+- Embedded Firmware Architecture
+- ESP32 Development
+- Rust on Microcontrollers
+- Industrial Communication (Modbus, MQTT)
+- Hardware Design & Signal Monitoring
+
+---
+
+## Current Work
+
+- Embedded firmware experiments
+- Industrial protocol implementation
+- Edge device research
+
+---
+
+Building practical and reliable embedded systems.
