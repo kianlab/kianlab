@@ -2,32 +2,64 @@
 
 Embedded Systems & Practical Hardware Engineering
 
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-red)
+![Rust](https://img.shields.io/badge/Rust-MCU-orange)
+![Firmware](https://img.shields.io/badge/Firmware-Architecture-blue)
+![Hardware](https://img.shields.io/badge/Hardware-Engineering-green)
+![Industrial](https://img.shields.io/badge/Industrial-Modbus%20%7C%20MQTT-purple)
+
 ---
 
 ## About
 
-Kianlab focuses on practical embedded systems development, firmware architecture, and hardware design experiments.
+Kianlab is an engineering-focused research space dedicated to practical embedded systems development, firmware architecture, and hardware design.
 
-This space documents real-world engineering work including firmware implementation, industrial communication protocols, and hardware signal analysis.
+This repository documents real-world experiments, implementation notes, and engineering solutions related to industrial communication systems and edge devices.
 
 ---
 
-## Focus Areas
+## Expertise
 
-- Embedded Firmware Architecture
-- ESP32 Development
+- Embedded Firmware Engineering
+- ESP32 & MCU Development
 - Rust on Microcontrollers
-- Industrial Communication (Modbus, MQTT)
+- Industrial Communication (Modbus TCP / RTU, MQTT)
 - Hardware Design & Signal Monitoring
+- Edge Device Architecture
 
 ---
 
 ## Current Work
 
-- Embedded firmware experiments
+- Firmware architecture experiments
 - Industrial protocol implementation
+- Hardware signal analysis
 - Edge device research
 
 ---
 
-Building practical and reliable embedded systems.
+## Tech Interests
+
+- Embedded Rust
+- Industrial IoT
+- Firmware Optimization
+- Hardware Reliability Engineering
+- Remote Monitoring Systems
+
+---
+
+## Philosophy
+
+Building practical and reliable embedded systems through continuous experimentation and engineering documentation.
+
+---
+
+## GitHub Activity
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kianlab&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianlab&layout=compact)
+
+---
+
+⭐ Practical Engineering • Research Driven • Future Systems
