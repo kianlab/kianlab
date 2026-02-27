@@ -1,4 +1,4 @@
-![Kianlab Banner](https://github.com/kianlab/kianlab/blob/main/ChatGPT%20Image%202026%EB%85%84%202%EC%9B%94%2027%EC%9D%BC%20%EC%98%A4%ED%9B%84%2012_23_04.png)
+![Kianlab Banner](https://github.com/kianlab/kianlab/blob/main/github_kianlab_readme_image.png)
 # Kianlab
 
 Embedded Systems & Practical Hardware Engineering
