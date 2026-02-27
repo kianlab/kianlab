@@ -57,9 +57,9 @@ Building practical and reliable embedded systems through continuous experimentat
 
 ## GitHub Activity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?kianldh=kianlab&show_icons=true)
+![Kianlab GitHub stats](https://github-readme-stats.vercel.app/api?username=kianlab&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kianldh=kianlab&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kianlab&layout=compact&cache_seconds=86400)
 
 ---
 
